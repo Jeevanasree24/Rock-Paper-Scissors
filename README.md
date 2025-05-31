@@ -4,9 +4,9 @@ A simple and stylish Rock Paper Scissors game built with React. Challenge the co
 
 ## 🚀 Live Demo
 
-[Click here to play the live app!](https://Jeevanasree24.github.io/rps)
+[Click here to play the live app!](https://jeevanasree24.github.io/Rock-Paper-Scissors/)
 
-*(Replace with your actual live app link, e.g., from [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or [GitHub Pages](https://pages.github.com/).)*
+
 
 ---
 
