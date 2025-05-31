@@ -4,25 +4,32 @@ A simple and stylish Rock Paper Scissors game built with React. Challenge the co
 
 ## 🚀 Live Demo
 
-[Click here to play the live app!](https://jeevanasree24.github.io/Rock-Paper-Scissors/)
-
-
+[Play Here!](https://jeevanasree24.github.io/Rock-Paper-Scissors/)
 
 ---
 
-## 🖥️ Features
+## 🛠️ Technologies Used
 
-- **Welcoming page** with a clear start button
-- **Interactive game UI**
-  - Pick rock, paper, or scissors with big, easy buttons
-  - See your choice and the computer’s choice with images
-- **Scoreboard** with real-time updates
-- **History** of all rounds
-- **Reset** button to start fresh
-- **Responsive design** for mobile and desktop
-- **Custom header and footer**
+- **React**: Front-end library for building user interfaces
+- **JavaScript (ES6+)**: Programming language for logic and interactivity
+- **HTML5 & CSS3**: Markup and styling
+- **gh-pages**: npm package for deploying to GitHub Pages
+- **Git & GitHub**: Version control and code hosting
 
 ---
+
+## ✨ Features
+
+- **Interactive Gameplay**: Play Rock, Paper, Scissors against the computer.
+- **Responsive UI**: Works well on desktop and mobile devices.
+- **Score Tracking**: Keeps track of player and computer scores.
+- **Simple Design**: Clean and intuitive user interface.
+- **Instant Results**: Shows the result of each round immediately.
+- **Deployed on GitHub Pages**: Easily accessible via a public URL.
+
+---
+
+
 
 ## 📸 Screenshots
 
@@ -34,34 +41,29 @@ A simple and stylish Rock Paper Scissors game built with React. Challenge the co
 
 ## 🛠️ Getting Started
 
-### 1. Clone the repository
+## 📦 Getting Started
 
-```bash
-git clone https://github.com/YOUR_USERNAME/rock-paper-scissors-react.git
-cd rock-paper-scissors-react
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Start the development server
-
-```bash
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
----
-
-## 📦 Build for Production
-
-```bash
-npm run build
-```
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Jeevanasree24/Rock-Paper-Scissors.git
+   cd Rock-Paper-Scissors
+   ```
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+3. **Run locally**
+   ```bash
+   npm start
+   ```
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+5. **Deploy to GitHub Pages**
+   ```bash
+   npm run deploy
+   ```
 
 ---
 
