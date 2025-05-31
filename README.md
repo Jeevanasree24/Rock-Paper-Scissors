@@ -26,7 +26,9 @@ A simple and stylish Rock Paper Scissors game built with React. Challenge the co
 
 ## 📸 Screenshots
 
-![Game screenshot](./src/assets/rock.png)(./src/assets/paper.png)(./src/assets/scissors.png) <!-- Replace with a real screenshot of your app if possible -->
+![Game screenshot](./src/assets/rock.png) <!-- Replace with a real screenshot of your app if possible -->
+![Game screenshot](./src/assets/paper.png) <!-- Replace with a real screenshot of your app if possible -->
+![Game screenshot](./src/assets/scissors.png) <!-- Replace with a real screenshot of your app if possible -->
 
 ---
 
